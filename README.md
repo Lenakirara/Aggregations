@@ -1,55 +1,7 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
-
----
-
 # Boas vindas ao repositório do projeto de Aggregations!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+## Habilidades Desenvolvidas:
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
-
-# Sumário
-
-- [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-  - [Instrução para estrutura dos arquivos](#Instrução-para-estrutura-dos-arquivos)
-  - [Instruções para restaurar o banco de dados `aggregations`](#Instruções-para-restaurar-o-banco-de-dados-aggregations)
-  - [Execução de testes unitários](#execução-de-testes-unitários)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
-    - [Desafio 1](#Desafio-1)
-    - [Desafio 2](#Desafio-2)
-    - [Desafio 3](#Desafio-3)
-    - [Desafio 4](#Desafio-4)
-    - [Desafio 5](#Desafio-5)
-    - [Desafio 6](#Desafio-6)
-    - [Desafio 7](#Desafio-7)
-    - [Desafio 8](#Desafio-8)
-    - [Desafio 9](#Desafio-9)
-    - [Desafio 10](#Desafio-10)
-    - [Desafio 11](#Desafio-11)
-    - [Desafio 12](#Desafio-12)
-    - [Desafio 13](#Desafio-13)
-    - [Desafio 14](#Desafio-14)
-- [Avisos Finais](#avisos-finais)
-
----
-
-# Habilidades
-Neste projeto você será capaz de:
 - Executar buscas complexas no banco mongoDB
 - Usar os operadores de aggregation para fazer uma pipeline  
 
@@ -69,19 +21,10 @@ Então vamos lá aplicar seu conhecimento nesses cenários muito legais! 😉
 
 ---
 
-## Data de Entrega
-
-    - Serão 2 dias de projeto.
-    - Data de entrega para avaliação final do projeto: `29/09/2021 - 14:00h`.
-
----
-
-# Instruções para entregar seu projeto:
-
 ## ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-011-mongodb-aggregations`.
+  * `git clone git@github.com:Lenakirara/Aggregations.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-011-mongodb-aggregations`
 
@@ -455,20 +398,5 @@ O resultado da sua query deve ter exatamente o seguinte formato (incluindo a ord
 { "bikeId" : <bike_id>, "duracaoMedia" : <duracao_media> }
 ```
 
-
----
-### Revisando um pull request
-
-À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests dos seus colegas. Fiquem atentos às mensagens do "Pull Reminders" no Slack!
-
-Use o material que você já viu sobre [Code Review](https://app.betrybe.com/course/real-life-engineer/code-review) para te ajudar a revisar os projetos que chegaram para você.
-
-# Avisos Finais
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_name=Turma%2011)
-
-O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
 ---
