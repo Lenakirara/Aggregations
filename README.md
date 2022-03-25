@@ -26,7 +26,7 @@ Então vamos lá aplicar seu conhecimento nesses cenários muito legais! 😉
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/Aggregations.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-mongodb-aggregations`
+    * `cd Aggregations`
 
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
